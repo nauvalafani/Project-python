@@ -1,0 +1,16 @@
+kalkulator projek
+
+belajar cara membuat kalkulator dan memahami cara kerjanya. lalu, sebagai dasar project based learning atau belajar berbasis projek.
+dengan ini belajar bahasa pemrograman tidak hanya sekedar teori, tapi juga sebagai proses awal menerapkan dari teori yang kita
+pelajari dengan cara membuat sebuah projek.
+
+permasalahan :
+1.apa itu kalkulator?
+2.bagaimana cara kerja kalkulator bisa menghasilkan sebuah angka yang dapat di hitung ?
+3.seperti apa logika keputusan dari kalkulator tersebut ?
+4.langkahnya seperti apa ?
+5.bagaimana proses di balik sistem sebuah komputer yang sudah jadi (GUI) atau tampilan berbasis gambar.
+
+
+
+
